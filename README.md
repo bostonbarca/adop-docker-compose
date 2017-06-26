@@ -2,6 +2,7 @@
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Accenture/ADOP)
 
 # The DevOps Platform: Overview
+# Alex Logan comment
 
 The DevOps Platform is a tools environment for continuously testing, releasing and maintaining applications. Reference code, delivery pipelines, automated testing and environments can be loaded in via the concept of [Cartridges](https://github.com/Accenture/adop-cartridge-skeleton).
 
